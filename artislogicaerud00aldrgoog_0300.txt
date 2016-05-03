@@ -1,0 +1,44 @@
+nnrnunnr. 943
+
+lt is not denied that there are passages in Aristotlo
+which may seem to eorrntenance this interpretati0n3 but
+there are others so palpably inconsistent with it that
+we are compelled to seek for a new explanation of the
+
+former.
+
+ln the lirst ploce, Aristotle distinetly condemns the
+assumption ol Delinitions as a Petilio Principii ³, acharge
+to which the above example is obviously liable; the real
+question to be proved being, that the three-sided figure
+has its angles equal to tivo right angles, whether it is
+called a triangle or not. ln the second place, he says
+that Demonstration proceeds from oriente, and cites
+as a specimen of the latter, “If equale be taken from
+equals, the remainders are equal¹.” These axioma,
+he says, are common to many classes of objeots3 but,
+in any single Seianae, need only be assumed to an
+extent commensurate with the object-matter of that
+Science. The above axiom, for example, is true of
+other things besides Geomettieal Magnitudes, but it is
+sufficient for the Geometer to assume it as true of these
+
+onl .
+llow if an axiom of this kind be the major premise in
+
+a Demonstrati0n‚ it is manifest that its predicate will
+also be the predicate of the Conclusi0n3 and that the
+logical form of that conclusion will be, not “All
+triangles are ligures having their angles equal to tvvo
+right angles,'’ but, “Triangles and figures having their
+angles equal to two right angles are equal to each
+other.'’
+
+The immediate Syllogism from which this proposition
+is proved by Euclid, may be logically stated as follows;
+
+t Top. viii. 1³. 2.
+t hnal. Post. i. 7. 1. i. 10. 2.
+
+ 
+

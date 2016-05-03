@@ -1,0 +1,40 @@
+86 sums nomem
+
+notant modum primae, ad quem sit Reductio.
+S. P. propositionem, quam vocalis proxime ante-
+
+' cedens designat, esse in Reduetione convertendam:
+S simpliciter3 P per accidens M transponendus
+esse praemissas. K reductionem fieri per impos·
+sibile, i. e. propraemissa, cujus symbolo adhaeret,
+sumendam esse Conclusionis contradictoriam ¹.
+Quibus ex praescripto factis, colligitur in prima
+conclusio vel expositae eadem, vel eam inferens,
+vel praemissae contradictoria, ut in exemplo.
+
+cEs NullumA est Β
+Ar Omne C est B: Ergo
+E NullumC est A.
+
+ad
+
+cE NullumB est A
+ΖΑ Omne C est B: Ergo
+rEnt Nullum C est A.
+
+dn AliquodB est A
+Am Omne B est C: Ergo
+Is AliquodC est A.
+
+ad
+
+dA Omne B est C
+rI AliquodA est B: Ergo
+l AliquodA ,est C.
+
+ί Whenoe the lines,
+S vult simpliciter verti ; P vero per acci:
+M uult transponi3 O [K] per impossibile· duci.
+
+ 
+

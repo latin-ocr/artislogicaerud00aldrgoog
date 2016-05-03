@@ -1,0 +1,43 @@
+288 arcannm.
+
+This can scarcely be regarded as a correct analysis of
+the process, unless the two members are sormalby stated
+as contradictory. The Principle of Excluded Middle
+asserta that every thing is either A or not A, that of two
+contradictorias, one must exist in every object; as the
+Principle of Contradiotion asserts that they cannot both
+exist. But if the two members are not stated as contra·
+dictories, if my disjunctive premis'e is, “All 0 is eitherA
+or B,” I make the material assertion that All O which is
+not A is B. If then Ι reason, “ This G is not Af, there·
+fore itis B,” I employ the Principle of Identity in addi-
+tion to that of Excluded Middle. Again, if I maintain
+that No C can be both A and B,I make the material
+assertion that No G which is A is B; and from hence to
+reason, “This Ο is A, therefore it is not B,” requires not
+the Principle of Excluded Middle, but that of Contra-
+diotion. In the first case, the Excluded Middle does
+not lead directly to the conclusion, but only to the con·
+
+troposition of the minor premise. When we deny this
+Oto be A, this principle enables us to essert that it is
+not-A, and hence to bring the reasoning under the Prin·
+ciple of Identity. But in the second case, in which one
+of the opposed members is affirmed, the ground on which
+we deny the other, is not because both cannot be false,
+hut because both cannot he true.
+
+It may be questioned whether this second inference is
+warranted by the serm of the disjunctive promise. Boe·
+thius calls it a material consequeaoe⁵,· and, in spite of the
+many eminent authorities on the other side,I am still
+disposed to think he is right. But let us grant for a
+moment the opposite view, and allow that the proposition,
+“All Ο is either A or B,” implies, as a condition of its
+
+rThe indefinite minor, “but u is not A,” is as objectionahle in this
+syllogism as in the conditional.
+⁸ De Syll. Hyp. lib. i. Opera, p. alo. Of. Galen. Itayoye Dici. p. ll.
+
+ 
+

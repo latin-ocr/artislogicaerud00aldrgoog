@@ -1,0 +1,33 @@
+irruunrx. ‘239
+
+nuth, “ No Ο cen be hoth¹.'' Thus viewed,it is in reality
+s complex proposition, containing two distinct esser·
+tions, esch of which moy be the ground of two distinct
+prooesses of ressoning, governed hy two opposite lcws.
+Surely it is essentiol to all clear thinking, thet the two
+should be separated from ench other, arrd not confounded ·
+under one form by assuming the st of Excluded
+Middlc to be, whet it is not, n complex of those of
+Identity ond Contradietion. Thus distinguished, the
+moods of the disjunctive syllogism erc merc verbel
+verietions from the categorica] form, ond moy easily be
+brought under its lews'.
+
+² Aquinas, Opuso. xlviii. De Euuncicticne, c. xiv. Krug, Loqik, 5. 86.
+“ Thus:
+
+Modus tollendo ponens. Modus ponendo tollens.
+
+Every G which is not A is B. No G which is A is B.
+Every Every
+
+Some OissGwhich is not Δ. Some Gisecwhich is Α.
+This This
+
+It is B. It is not B.
+
+The first isgorerned by the Principio of Identity, and the second by the
+Principio of contradiction.
+
+ 
+

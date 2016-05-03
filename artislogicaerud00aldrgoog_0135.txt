@@ -1,0 +1,35 @@
+78 Anus uooicu
+
+A Omne B θεῖ A
+A Omne C θεῖ B: Ergo
+l AliquodC est A.
+
+Ε NullumB est A
+A Omne C est B: Ergo
+Ο Aliquod C nonest A.
+
+ΙΙ.
+
+οΕε Nullum A est B
+A Omne C est B: Ergo-
+rE NullumC est A.
+
+oAm Omne A θεῖ Β
+Es Nullum C est B: Ergo
+trEs Nullum C θεῖ A.
+
+fEs Nullum A est B
+ῖΙ Aliquod C est B: Ergo
+
+oO Aliquod Cnon θεῖ A.
+
+bAr Omne A θεῖ Β
+Olc Aliquod C non est B: Ergo
+Ο Aliquod Cnon θεῖ A.
+
+E NullumA θεῖ Β
+A Omne C est B: Ergo
+O AliquodC non est A.
+
+ 
+

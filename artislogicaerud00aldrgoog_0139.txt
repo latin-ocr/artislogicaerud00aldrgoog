@@ -1,0 +1,52 @@
+82 auris courum
+
+“ Universaliter de alio, (i. e. de termino distributo)
+“ sive affirmative, sive negative, praedicatur similiter
+
+“de omnibus sub eo contentis.”
+
+ὡσαύτως, An. Pr. il. 8. The same principle is implied in
+the first antipredicamental rule, Categ. 3. l. ὅσα κατὰ τοῦ κατη-
+γορουμένου λέγεται πάντα καὶ κατὰ τοῦ ὑποκειμένου ῥηθήσεται. Ῑυᾶθθᾶ,
+Aldrich’s version is more nearly a translation oi the latter
+than of the Dictum properly so called. Of. Petr. Hisp. Tract. iv.
+“Dici de omni est, quando nihil est sumere sub subjecto, de
+quo non dicatur praedicatum. Dici de nullo est, quando nihil
+est sumere sub subjecto a quo non removeatur praedicatum.”
+
+The Dictum dc Omm' ct Nullo is most improperly called a
+Thcorcm. This term in Aristotle is synonymous with (impu,
+and means a proposition, the truth of which is to be inquired
+into, not one laid down as an axiom. See Topica, i. 11. 1.
+Alexander, Scholia, p. 259, a. 88.
+
+The dictum is directly applicable only to the first figure,
+which is considered by Aristotle as the type of all syllogismo,
+and to which the others have to be reduced, as a necessary
+test oi their validity. In this he is followed by Kant, Lopilc,
+ς. 69. Other logicians enunciate distinct axioma sor the
+second and third figures. This has been done by Lambert,
+Neues Ocycmm, part i. ch. 4. 5. 232. but he is far from happy
+in his enunciation of the dicta. We may state them as follows,
+in a somewhat improved form.
+
+Principle of second figure. Dictum dc Diverso.
+
+lfa certain attribute can be predicated (affirmatively or
+negatively) of every member of a class, any subject, of which
+it cannot be so predicated, does not belong to the class⁸
+
+Principles of third figure. Ι. Dictum dc Exemplo.
+
+Ifa certain attribute can be affirmed ol any portion of the
+members of a alasa, it is not incompatible with the distinctive
+attributes of that class.
+
+Il. Dictum dc Ecccpto. Ila certain attribute can be denied
+of any portion of the members ola class, it is not inseparable
+from the distinotive attributes of that class.
+
+The natural use of the second ligure, according to humbert,
+
+ 
+

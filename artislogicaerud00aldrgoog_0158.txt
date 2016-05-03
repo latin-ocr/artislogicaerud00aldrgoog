@@ -1,0 +1,44 @@
+sonrnuurs. 101
+
+Conditionalis cujusque sententia est, quod, data
+conditione, daturAssertio; quod bifariam explicari
+
+confounded with the inquiry, whether the hypothetical pro·
+position is formally the same with the categorical. The latter
+is answered by Kant in the negative, but that decision does
+not effect the present question. The reduction of hypothetica]
+syllogismo must be gevemed by the same rules as that of
+categoricals; and in the latter ease, itis allowable to substitute
+for a given proposition another which, though not identical, is
+implied by it. For instance, a particular converse is employed
+instead of its universal exposita. Scin hypotheticals‚ if the
+new propositione oontain the same terma, aud are immediately
+deducible from the original ones, the reductionis legitimate.
+This will generally be the case when the hypothetical pro-
+position has but three terms; both clauses having the same
+subject or the same predicate. The following instaures may
+thus be reduced :—
+1.1sA11AisB,A11Aisc‚ AllBis0‚
+ButAllAisB; to AllAisB3
+.·.A11Aisc. .·.AllAisG.
+11.1fA11AisB,AnoisB, AllAisB,
+ButAllAisB; to ΙΑΠΟἱεΑς
+All G is B. All C is B.
+
+'These syllogismo, indeed, were admitted by the Ramista,
+'the great advocates of hypotheticam, to be categorical. But
+where the hypothetical has four terms, as, ‘⁴ If A is B, 0 is
+D,'' this mode of reduction is not practicable; yet even in
+*this case a categorical syllogism may be constructed, whose
+propositione, though expressed in different terms, are implied
+in those οἰ the original syllogism. Thus:
+Constructive. Destructive.
+Every case of A being B, is a Every case ol A being B, is a
+case of‘c being D. case of O being D.
+This is a case of A being B. This is notacase ol C beingD.
+This is a case of G being D. .·.ThisisnotacaseoshbeingB.
+
+The above directions are all that cau be given on the ordinary
+
+ 
+

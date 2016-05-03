@@ -1,0 +1,43 @@
+auurunwrs. 59
+
+Nam 1. sit vera 1⁴2⁶, puta Nullum Α est B: Ergo
+(cum uterque terminus distribuatur) quodvis A
+
+served, that the old Logicians, following Boethius, main·
+tain, that in conversion by composition, ae well as in
+the others, the quality should romain unchenged. Gon·
+sequently the converse of ‘⁶ All A is B¹’ is “All not B ie
+not A,”,snd of “Some A is not Β,” “Some not B is not
+not A.” It is simpler, however, to convert A into E andO
+into 1, (“ No notBisA;” ‘¹ Some notBis A‚”) as is done by
+Wallis and Abp. Whately; sud before Boethius by Apuleius
+and Capella, who notice the conversion, but do not give it a
+name. The principle of this conversion may be found in
+Aristotle, Top. ii. 8. 1. though he does not employ it for
+logical purposes.
+⁰ Sit vere Ε. This is the proof given by Theophrastus
+and Eudemus. (Alexander, Scholia, p. 148. b. 29.) Aristotle
+proves it hythe method called ἔκθεσις, i. e. by the exhibitiva
+of an individual instance, (ἐκτιθέναι exponere seusui; whencee
+syllogism with singular premises is called syllogismus ocyo-
+siteeius.) Thus, No A is B, therefore No B is A, for if not,
+Some iudieiduel B, say O, is A. Then G is both A and B,
+and therefore it will not be true thatNo A is B; which was
+the original proposition. Aristotle does not assume the eon-
+version of I to prove that of E, which would be arguing in a
+circle. For e fuller account, see Hamilton on Reid, p. 696.
+Alexander himself offers a third proof by syllogism in the
+first figure. No A is B, therefore No B is A; for suppose
+“SomeBisA,”and“NoAisB,”.· SomeBisnotB.
+Having proved the conversion of E, those of A and I will
+follow from it. “All A is B, therefore Some B is A;'‘ or else
+No B is A, and therefore (by conversion) No A is B; whereas
+we assumed All Ais B. And again, Some A is B, therefore
+SomeBisA; or else NoBis A, aud therefore NoAis B.
+For these proofS, the only assumption necessary is the
+principle of contradiction.. But proof of any kind is super·
+fluous. Conversion and other immediate inferences are
+necessary results of the laws of thought, equally evident
+
+ 
+

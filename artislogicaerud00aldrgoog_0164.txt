@@ -1,0 +1,53 @@
+nunrnurvrn. 107
+
+etatem appellavit3 Favorinus eleganter coortam.
+
+Porro, nec formosa omnis est communis, nec
+
+deformis, poena. Denique Dilcmma facile rotor-Annales
+
+queri potest. Puta, Sc' formosam duxero, non
+
+habebo poencm; ri deformem, non debebo communem.
+Dilemma nihil aliud est, quarn Inductio Nega-
+
+troau- in qua Syllogismi Major Conditionalis est
+
+11. 28. ln.
+
+¹¹¹ This remark is taken from Wallis, and is only appliceble
+to the Dilemma in his *sense of the term. The negative
+induction appears categorically in this form:
+
+There are no instanccs oi Ο being D, noros Ε being F.
+But these are all the possible instanccs of Α being B.
+There is no instance orn being B.
+
+The 'Dilemma of Aldrich cannot, as it stands, be reduced to
+this form. The categorical conclusion, e. g. Nullo ocor cst
+ducendo, does not follow from the premises ol the Dilemma
+of Bias; but requires the additional assumption, that neither
+matrimonial nuieance is, under any circumstances, to be
+endurcd. This brings it to Wallis's form, thus:
+
+Si ducenda cot acor, outformosc docendo cet, cut deformis:
+Atqui non ort ducendo formoso, neone deformis:
+’ Erqo, Ucor non cst deceroto. (Burgersdyck, Inar. Lop. ii. 13.)
+
+The complex Dilemma, as given above, may be reduced,
+ir required, toa series of hypotheticel syllogisms, and so to
+categoricals; thus:
+
+constructive. Destructive.
+
+IfEiaF‚GisH; IfEisF‚GisH;
+IfAisnotB,EisF; IfCisD,GisnotH;
+If A is not B, G is H. If G is D, Ε is uot F.
+
+IfOisnotD‚AisnotB; IfAisB,GisD;
+If O is not D, G is H. Il A is B, E is not F.
+
+The reduction of the simple Dilemma is obvious enough.
+
+ 
+

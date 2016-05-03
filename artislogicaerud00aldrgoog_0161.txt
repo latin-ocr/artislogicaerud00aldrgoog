@@ -1,0 +1,44 @@
+Ateste LOGICAE
+
+v. g. Si posita vel C vel D
+
+Subsumetur
+Sed C ergo nonD
+D nonC
+non C ergo D
+nonD C
+
+Pro exposita Disjunctiva
+dic conditionaliter
+
+every disjunctive proposition. We may hoppen to lmow that
+two altematives cannot be true together, so that the affirmation
+of the second necessitates the deniel of the first, and the
+affirmation of the first the deniel of the second; but this. as
+Boethius observes is a 1111111111, not aformal consequence,
+whether it be stated in the hypothetical or disjunctive form.
+It must be allowed that the examples sometimes adduced on
+this side of the question have not been very happily chosen.
+1t sounds oddly enough to state a known truth as a possible
+falsehood, as in the instance, “Bellum Trojauum 1111111111
+Homerus oet Virqutusss’ But other end more natural specimena
+ι have been given3 e. g. ι’1111111111 Troja suit, cut tutoris de
+111111 Trojano cst merc sahrde.” The case is still clearer when
+both members of the disjunctive are negative, ss in the
+example given by Boethius, “Si enim quis dicat, aut non
+est album aut non est nigrum, sive elbum non esse as·
+sumpserit, non necesse erit esse vel non esse nigrum3 sive
+nigrum non esse assumpserit, ut sit vel non sit elbum, nullam
+saciet necessitatem.’' On this supposition only two of the
+above syllogisms are valid, which may be reduced to hypothe· -
+ticals as follows:
+
+Constructive. Destructive.
+lfAisnotB,CisD. IfAisnotB,CisD.
+But A is not Β. But C is not 1).
+
+C is D. Ais B.
+For 1 further account, see Wellis, Log. Thes. 2.
+
+ 
+

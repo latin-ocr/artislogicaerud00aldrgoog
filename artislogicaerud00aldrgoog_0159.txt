@@ -1,0 +1,43 @@
+102 unns nomen
+
+potest. l. Si detur Conditi0, dando est Assertio;
+unde Regulo primo: Posito Antecedente, recte
+ponitur Consequens, 2. Si duretur Conditi0,
+duodo esset Asserti03 unde Regulo secunda: Sublata
+Consequente, recte tollitur Antecedens.
+
+Porro hoc unum statuit‚Antecedente vera, veram
+esse consequentem non autem ambas esse simul
+veras aut simul falsaS, aut una vera, falsam alteram:
+per illam igitur, sublata Antecedente, poni vel tolli
+potest Consequens; aut posita consequente, poni
+vel tolli Antecedens. Unde Regula tertio: Sublata
+Antecedente, vel Posita consequente, nihil certo
+colligitur f.
+
+Conditionalis igitur Syllogismi duae sunt, nec
+plures, formulae.
+
+I. Quae vocatur constructiva.
+Si C. D. tum K. Δ.
+Sed C. D. ergo K. Δ.
+
+theory of hypotheticnls. The first method of reduction is
+only approximately true; and various ingenious examples
+have been framed by Logicians, to which it is inapplicable.
+See Krug‚ ᾗ. 82. FrieS, ς. 62. The truth is, that the socnlled
+hypothetical proposition is really the statement ot'u conso
+quomo, which is sometimes formal, sometimes materiul; and
+in the letter case, the consequence is extrslogicel, end cannot
+be reduced to any logical form, without odditional assump-
+tions derived from the mutter treated of. See Proleqmnena
+Loqico, p. 211. Appendix, note I.
+
+f By adopting the above modes of reduction, it may easily
+be seen, thet the violation of this third rule is equivalent in
+the case of denying the antecedent, to un illicit process of
+the major term; in thot of offirming the consequent, to an
+imdistributed middle.
+
+ 
+

@@ -1,0 +1,45 @@
+RUDlMEN'I'A.
+
+ll. Qua dicitur Destructioass.
+Si C. D. tum K. Δ.
+Sed non K. Δ. ergo non C. D.
+
+ᾗ. 2. Quia de Conditloaoli dicta sunt, Dipaactivoe
+satis cavent. Ejus enim in Syllogismo positae
+sententia conditionaliter efferri semper potest ¹¹.
+
+⁸ The destructive syllogism is naturally reduced to the
+second figure in the categorical form, and cannot in most
+cases be brought to the first without considerable awkward-
+ness. This may be avoided by conamine the hypothetical
+before reductiou. A hypothetical proposition is converted by
+Ooatraposittom thus, “ Il A is B, C ia D,'' to, “ Ii 0 is not D,
+A is not Ex· The syllogism may then be treated aa a con·
+structile. of. Hamilton on Reid, p. 697.Whate1y'sLogic,
+b. ii. oh. 4. §0 8.
+
+Hypothetical as well aa categorical reasonings may be
+combined in a Sorites. The Hypothetical Sorites consiste
+oia series of propositione, in which the consequent oi each
+is the antecedent ol the next; the conclusion being¹ composed
+ef the first antecedent aad the lust consequent. Thus:
+
+Constructive Sorites. Destructive' Sorites.
+IfAis B, (lis D. illisaciae.
+uersantes. notans-iss.
+metensisfl. nanneten.
+
+tf h is B, G is Η. aIfGisnotH,AisnotBt
+nee Wolf, Pau. aaa. §L 470.
+
+¹² With regard to the impert oi the disjametire proposition,
+Logicians are at issue. The majority (Kant among the
+number) regerd it as stating all possible cases: so that one
+only of its members can be truc. lna Aquinas maintains
+that any disjunctive proposition in which thie condition is not
+observed, is falae. On thie supposition all the four inferentes
+given by Aldrich are valid. But it may be questioned whether
+the incompatibility oi the members appears in the som of
+
+ 
+

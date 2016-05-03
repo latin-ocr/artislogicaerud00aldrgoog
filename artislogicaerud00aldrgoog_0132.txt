@@ -1,0 +1,45 @@
+acarnanas. 75·
+
+Medium, quod curn utroque extremo comparatur,
+vel 1. subjicitur majori et tribuitur minori, et fit
+
+Aristotle acknowlcdges only three figures ; looking rather to
+the extension ol the middle term, as compared with the other
+two, than to its position in the two premises. In this point
+of view there are only three figures possible; for the relative
+extensione ol the major and minor terms being given, the
+middle can only have three positione: between the other
+two, as in the first figure; greater than both, as in the
+second; or less than both, as in the third. See Trendelen-
+burg, Elem. t. 28. Waltz on Anal. Pr. i. 23. 7. The invention
+of the fourth figure is attributed by Averroes¹ (on Anal. Pr.
+i. 8.) to Galen. The latter may possibly have first called the
+five moods by that name, but they were known at a much
+earlier period as indireot moods of the first figure. An in·
+direct mood is one in which we do not inser the immediate
+conclusion, but its converse. Consequently, the predicate
+of the conclusion, which in a direct mood is the major term,
+is in an indireot one the minor. The five indireot moods
+ot' the first figure were called Baralip, Celantes, Dabitis,
+Fapesmo, Frisesmo. The three first are clearly Barbara,
+(delerent, Darii, with the conclusione converted. With regard
+to the two last, the process is alittle more intricate. They
+have negative minor premises, and thus offend against a
+special rule ol the first figure; but this is ehecked hya
+counterbalaneing transgression. For by simply converting
+Ο, we alter the distribution of the terme, so as to avoid an
+illicit process. Thus,
+
+AllBisA (lap) SomeBisA (sris)
+NoOisB (esm) NoOisB (earn)
+Therefore SomeA is notO (o) Theresore Some A is notC (ο)
+
+Whero to infer “ Some O is Where to infer “Some G is
+not A,” would involve an illicit not Α,” would involve an illicit
+process of the major term. process of the major term.
+
+The invention of these indireot moods is attributed to
+Theophrastus; not, however, on the authority of Apuleius as
+
+ 
+

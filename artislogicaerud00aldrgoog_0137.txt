@@ -1,0 +1,36 @@
+ARTIS Loolcm
+
+IV.
+
+brAm Omne A est B
+An Omne Β est C: Ergo
+tlp AliquodC est A.
+
+cAm Omne A est B
+En Nullum Β est C: Ergo
+Es NullumC est A.
+
+dIm AliquodA est B
+Ar Omne B est C: Ergo
+ie Aliquod C est A.
+
+fEe Nullum A est B
+Ap Omne Β est C: Ergo
+Ο Aliquod Cnon est A.
+
+srEe Nullum A est Β
+Is AliquodB est C: Ergo
+On Aliquod Cnon est A.
+
+A Omne A est B
+E NullumB est C: Ergo
+Ο Aliquod C non est A.
+
+Borboro¹, celarent, Darii, Ferioque, prioris:
+
+'Barbare Celerem, de. This mnemonie first appears in
+the Summulae Loqieales of Petrus HispunuS‚ (see on p. 48.)
+But in his version the fourth figure is omitted, end ils moods
+
+ 
+

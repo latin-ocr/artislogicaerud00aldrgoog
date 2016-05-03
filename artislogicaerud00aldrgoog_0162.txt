@@ -1,0 +1,44 @@
+RUDlMENTA.
+
+Si C¹ turn non D
+D non C
+non C tum D
+
+nonD C
+
+§. 3. Surunusr syllogismus quidam Hypothe-
+ticus redundans, alio nomine Dilemmc¹, quia ple·
+
+¹ Of the word Dilemma, various etymologias have been
+proposed; 1. a choica of alternatives offered to an adversary;
+2. a double 'premise assumed (λῆμμα); 3. a not very probable
+one given by Keckermann, “a dle λαμβάνεσθαι, quia utrinque
+capit et constringit adversarium contra quem adducitur.¹' The
+first seems to be adopted by Aldrich, and is perhaps supported
+by Cassiodorus, Expos, in Ps. 138, 9. ‘⁶ Dilemma, quod fit ex
+duabus propositionibus pluribusve, ex quibus quicquid electum
+fuerit, contrarium esse non dubium est.” cl. Victorinus in
+1 Rhet. (lic. 86. But whatever be the origin of the word, it
+was certainly employed as synonymous with the compleam of
+Cicero, (de Inv. 1. 29.) This is expressly stated by Servius,
+(on AEn. ii. 6⁷5.) who is, Ι believe, the oldest extant writer in
+whom the word is found. In this sense it may be defined,
+(omitting the adversany, as belonging rather to Rhetoric or
+Dialectic than Logia) “A syllogism, having a conditional
+major premise with more than one antecedent, and a dis·
+junctive minor.'’ Its different forms may be thus exhibited:
+
+Ι. Simple constructive.
+
+IfAisB,0isD; andifEisF,CisD;
+But either A is B, or Ε is F;
+cisD.
+
+II. complex constructive.
+
+IsAisB,CisD; andisEisF,GisH;
+But eitherAis B, orEis F ;
+EitherOisD, orGisH.
+
+ 
+

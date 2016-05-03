@@ -1,0 +1,45 @@
+936 aninumr.
+
+other circumstances not mentioned in the hypothesis
+at all ⁰.
+
+It thus appears, that the only hypothetical judgment
+which can be employed as the real major premise of
+a syllogism, may be expressed in the form, “ lf any A
+is B, it is C‚” where A, Β, and (l represent concepte
+or general notions The complete categorical equivalent
+to this is, “ Every A which is B is 0, because it is B,''
+which admits of two interpretatione, according as B
+stands for the physical cause of the fact, or for the
+logical reason of cur huowing it. In the latter case,
+the judgment is analytical, and represents a disguised
+formal consequence with B as a middle term: e. g.
+“Erery man who is learned has studied, because he
+is learned.” Here the notion of study is implied in
+that of learning, and the major premise is, “All learned
+beings have studied.” The hypothetical proposition
+thus becomes a complete syllogism, to which the sub-
+
+¹¹ This may be made elecrer by cn example. The following is cited by
+Fries, as an instance of a hypothetica] proposition, not reducible to cate·
+gorical form. “ Il Gaius is free from business he is writing poetry.” This
+may be interpreted to mean either, generally, “ whenever (laius is dis·
+engaged, he writes poetry;” or, specially, “ is he is now disengaged, he is
+now writing poetry.” Under the former interpretation, it is a general
+hypothesis, which may be applied as amaJ'or premise to particular instances:
+but in this case the true form of the reasoning is, “All times when Gaius
+is disengaged, are times when he writes poetry ; end the present is such
+a time.” Under the latter interpretation, it is one of the cases of a
+material connection of two facts mentioned in the text. Now in this
+last case, it is obvious that the inlerence is really made, not from the
+hypothesis, but from some circumstance linown to the reasoner, bnt not
+appearing in the proposition. Any men being asked, ‘⁴ Why do you infer
+that Caius, being now disengaged, is writing poetry?'’ would reply,
+“Because he told me he should (10 so;” or something of the kind.
+Assuredly be would never dream os replying, ‘⁴ Because tshe is now
+disengaged he is writing.” In this case then he does not reason from
+the hypothesis, and the expressed propositione do not compose a syl·
+logism.
+
+ 
+

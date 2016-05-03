@@ -1,0 +1,48 @@
+280 manunrx.
+
+own example being taken from Geometry. But still its
+connexion with the original question is not formal, but
+
+materia15 for we assume,
+All A is B;
+
+, All G is A ;
+Therefore‚ All (l is B.
+
+And this conclusion, from material grounds, we ltnow to
+be false. We also know (materially again) that the minor
+promise is truc3 and all that is logical in the processis
+the consequent decision that the major must be false,
+and hence, by the principle of contradiction, that the
+original question is true.
+
+But one step only is wanting, to convert these material
+consequences into formal ones. We have in the συλλο-
+puple ἐξ ὁμολογίας clearly the germ of the Conditional
+Syllogisms of Theophrastus. lt needs but to commoneo
+with the original hypothesis not as a mere dialectic
+conventiou, but as a proposition having its own objective
+ralue, and we have at once a distinct form of argu·
+mentation, to which the Aristotelian specimen is related
+merely as a prosyllogism supporting one of the promises.
+This done, no great sagacity is required to see that the
+prosyllogism may in this, as in any other case, be omitted Ἴ
+or not, according to the material character of the promise
+which it supports.
+
+To the ἀπαγωγὴ εἰς τὸ ἀδύνατον may in like manner he
+traced the origin cf the Disjunctive Syllogism. The
+most natural proceeding in this case is to state the two
+contradictory propositions as alternatives, one of them
+being disproved by a prosyllogism.
+
+Either Some Α is not B, or All A is B; in which case
+
+All O is A;
+Therefore, All G is B.
+
+difference between the deductio ad inpossibile and the syllogism os agree·
+ment See Auel, Pr. i. 44. 3,.
+
+ 
+

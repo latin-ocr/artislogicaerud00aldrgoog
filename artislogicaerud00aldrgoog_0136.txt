@@ -1,0 +1,35 @@
+RUDIMENTA.
+
+A Omne A est B
+Ε NullumC θεῖ Β; Ergo
+O AliquodC non est A.
+
+III.
+
+dAr Omne B est A
+Ap Omne B est C: Ergo
+
+· el AliquodC est A.
+
+sEl NullumB est A ,
+Ap Omne B est C: Ergo
+tOn Aliquod C non est A.
+
+dis AliquodB est A
+Am Omne B θεῖ C: Ergo
+Ιε AliquodO est A.
+
+loe Aliquod B non este
+Ar Omne B est C: Ergo
+dO Aliquod O non est A.
+
+dAt Omne B θεῖ A
+Ιε AliquodB est C: Ergo
+l Aliquodc θεῖ A.
+
+s Er Nullum B θεῖ A
+Ιε Aliquod B θεῖ C: Ergo
+On Aliquod Onon est A.
+
+ 
+
